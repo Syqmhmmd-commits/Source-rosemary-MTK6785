@@ -129,3 +129,7 @@ kernel/configs/android-*.cfg
 out*/
 AnyKernel*/
 clang*/
+
+# KernelSU Next (clone manual)
+KernelSU-Next/
+build_ksun.log
